@@ -10,3 +10,33 @@ A Noise Cancellation System that is capable of precisely removing noise present 
 |![Noise In The Time Domain](https://github.com/yehiarasheed/Noise-Cancellation-System/assets/157399068/9079e5bd-6efc-4295-adf2-23dca81621f1)|![Noise In The Frequency Domain](https://github.com/yehiarasheed/Noise-Cancellation-System/assets/157399068/b74c77e3-e1e8-41cf-aaec-e3e19f1f64d1)|
 |The Clean Song In The Time Domain|The Clean Song In The Frequency Domain|
 |![Clean Song In The Time Domain](https://github.com/yehiarasheed/Noise-Cancellation-System/assets/157399068/0c222370-9886-4e2f-b1c1-b45cff10c898)|![Clean Song In The Frequency Domain](https://github.com/yehiarasheed/Noise-Cancellation-System/assets/157399068/89f16023-e61b-4cc4-997f-0f318db98b69)|
+
+## How to Install
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yehiarasheed/Noise-Cancellation-System.git
+   cd Noise-Cancellation-System
+   ```
+   This command downloads a copy of the repository to your local machine and navigates into the project directory.
+
+2. **Install a Python IDE:**
+   You will need a Python IDE to run the project. The user personally used Spyder, but other IDEs like PyCharm or VS Code are also recommended.
+
+3. **Install Required Libraries:**
+   Ensure the following Python libraries are installed:
+   ```bash
+   pip install numpy matplotlib
+   ```
+
+## Dependencies
+
+This project requires the following dependencies:
+
+- **Python IDE**: Recommended IDEs include Spyder, PyCharm, or VS Code.
+- **numpy**: For numerical computations.
+- **matplotlib**: For plotting.
+
+Ensure all required packages are installed and up to date to run the Python code in this project.
+
+---

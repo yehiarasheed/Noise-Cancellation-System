@@ -39,4 +39,9 @@ This project requires the following dependencies:
 
 Ensure all required packages are installed and up to date to run the Python code in this project.
 
+## Credits
+- **Developers**: Jomana Mahmoud & Yehia Rasheed.
+
+All media used in this project, including images and videos, are credited to their respective creators and used under fair use for educational and demonstration purposes. If you plan to use this project for commercial purposes, you must ensure you have obtained the necessary licenses or permissions for any copyrighted media.
+
 ---
